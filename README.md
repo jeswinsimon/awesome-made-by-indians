@@ -3,7 +3,7 @@
 
 ## But why?
 
-We were looking for ways to promote open source contributions among Indian developers especially students. We came across the [🇷🇺 Awesome Made by Russians](https://github.com/igoradamenko/awesome-made-by-russians) and realised that a country wise awesome list would inspire local developers and also foster collaboration. 
+We were looking for ways to promote open source contributions among Indian developers especially students. We came across the [🇷🇺 Awesome Made by Russians](https://github.com/igoradamenko/awesome-made-by-russians) list and realised that a country wise awesome list would inspire local developers and also foster collaboration. 
 
 ## Contributing 
 
