@@ -3,18 +3,23 @@
 
 ## Open Source Projects
 
-### > 15k ★
+### > 15k 🌟
 
 - **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)** by [Hasura](https://github.com/hasura)<br>
 Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
-### > 5k ★
+### > 5k 🌟
 
 - **[ERPNext](https://github.com/frappe/erpnext)** by [Frappe](https://github.com/frappe)<br>
 Open Source Alternative to SAP.
 
 - **[Calibre](https://github.com/kovidgoyal/calibre)** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
 Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
+
+### > 1k 🌟
+
+- **[Bagisto](https://github.com/bagisto/bagisto)** by [Bagisto](https://github.com/bagisto)<br>
+A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
 ### New and Noteworthy
 
