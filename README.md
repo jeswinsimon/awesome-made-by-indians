@@ -16,18 +16,36 @@ Open Source Alternative to SAP.
 - **[Calibre](https://github.com/kovidgoyal/calibre)** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
 Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
 
+- **[OpenEBS](https://github.com/openebs/openebs)** by [OpenEBS](https://github.com/openebs)<br>
+Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
+
 ### > 1k 🌟
+
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** by [Chatwoot](https://github.com/chatwoot)<br>
+A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.
 
 - **[Bagisto](https://github.com/bagisto/bagisto)** by [Bagisto](https://github.com/bagisto)<br>
 A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
 ### New and Noteworthy
 
+- **[Kundera](https://github.com/Impetus/Kundera)** by [Impetus](https://github.com/Impetus)<br>
+A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.
+
 - **[Kerala Rescue](https://github.com/raksha-life/rescuekerala/)** by [Raksha](https://github.com/raksha-life)<br>
 Website for coordinating rehabilitation of people affected in the Kerala Floods.
 
+- **[Gasper](https://github.com/sdslabs/gasper)** by [SDS Labs, IIT Roorkee](https://github.com/sdslabs)<br>
+Gasper is an intelligent Platform as a Service (PaaS) used for deploying and managing applications and databases in any cloud topology.
+
 - **[AquilaDB](https://github.com/a-mma/AquilaDB)** by [a-mma (a_മ്മ)](https://github.com/a-mma)<br>
 Drop in solution for Decentralized Neural Information Retrieval. Index latent vectors along with JSON metadata and do efficient k-NN search.
+
+- **[Webzash](https://github.com/prashants/webzash)** by [Prashant Shah](https://github.com/prashants/webzash)<br>
+Easy to use web based double entry accounting software in PHP - MySQL under MIT License.
+
+- **[Rubeus](https://github.com/sdslabs/Rubeus)** by [SDS Labs, IIT Roorkee](https://github.com/sdslabs)<br>
+A cross platform 2D game engine written in C++ for beginners.
 
 
 ## But why?
@@ -44,5 +62,7 @@ If you want to add project to this list, please, make sure that:
 2. The project has more that 100 stars on Github.
 
 If they do, feel free to make a PR!
+
+If you find a discrepancy in the list please feel free to raise an issue or a PR.
 
 (Please, check twice that you have picked the correct category and added the project according to alphabetical order.)
