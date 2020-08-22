@@ -1,7 +1,10 @@
 # 🇮🇳 Awesome Made by Indians [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> An Awesome list for curating the best projects that were made by Indian developers
+> An Awesome list for curating the best projects that were made by Indian developers.
 
-## > 3k ★
+## > 5k ★
+
+- **[ERPNext](https://github.com/frappe/erpnext)** by [Frappe](https://github.com/frappe)<br>
+Open Source Alternative to SAP.
 
 - **[Calibre](https://github.com/kovidgoyal/calibre)** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
 Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
