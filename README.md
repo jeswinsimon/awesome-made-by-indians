@@ -47,6 +47,10 @@ Easy to use web based double entry accounting software in PHP - MySQL under MIT 
 - **[Rubeus](https://github.com/sdslabs/Rubeus)** by [SDS Labs, IIT Roorkee](https://github.com/sdslabs)<br>
 A cross platform 2D game engine written in C++ for beginners.
 
+## Open Source Organisations and Platforms
+
+- **[MOSIP](https://github.com/mosip)** - Modular Open Source Identity Platform <br>
+An open source platform on which national foundational IDs are built.
 
 ## But why?
 
