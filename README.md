@@ -30,6 +30,9 @@ A Free and Opensource laravel eCommerce framework built for all to build and sca
 - **[AI Chatbot framework](https://github.com/alfredfrancis/ai-chatbot-framework)** by [Alfred Francis](https://github.com/alfredfrancis)<br>
 A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
 
+- **[IndicNLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library)** by [Anoop Kunchukuttan](https://github.com/anoopkunchukuttan/indic_nlp_library)<br>
+A python library for Indian language Natural Language Processing supporting many common NLP tasks like tokenization, word segmentation, script conversion, and many more.
+
 ### New and Noteworthy
 
 - **[Kundera](https://github.com/Impetus/Kundera)** by [Impetus](https://github.com/Impetus)<br>
