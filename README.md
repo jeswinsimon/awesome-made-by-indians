@@ -15,11 +15,14 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ### > 5k 🌟
 
-- **[ERPNext](https://github.com/frappe/erpnext)** by [Frappe](https://github.com/frappe)<br>
-Open Source Alternative to SAP.
+- **[Kitty](https://github.com/kovidgoyal/kitty)** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
+A cross-platform, fast, feature full, GPU based terminal emulator.
 
 - **[Calibre](https://github.com/kovidgoyal/calibre)** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
 Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
+
+- **[ERPNext](https://github.com/frappe/erpnext)** by [Frappe](https://github.com/frappe)<br>
+Open Source Alternative to SAP.
 
 - **[OpenEBS](https://github.com/openebs/openebs)** by [OpenEBS](https://github.com/openebs)<br>
 Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
