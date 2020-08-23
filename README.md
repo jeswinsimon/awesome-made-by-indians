@@ -24,6 +24,9 @@ Calibre is an e-book manager. It can view, convert, edit and catalog e-books in 
 - **[OpenEBS](https://github.com/openebs/openebs)** by [OpenEBS](https://github.com/openebs)<br>
 Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 
+- **[Responsively App](https://github.com/responsively-org/responsively-app)** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
+Responsively is a free, open-source dev-tool that helps in faster and precise responsive web developement. A must-have for all web developers.
+
 ### > 1k 🌟
 
 - **[Chatwoot](https://github.com/chatwoot/chatwoot)** by [Chatwoot](https://github.com/chatwoot)<br>
