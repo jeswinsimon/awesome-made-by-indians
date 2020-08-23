@@ -27,6 +27,9 @@ A simple and elegant live chat software. An opensource alternative to Intercom, 
 - **[Bagisto](https://github.com/bagisto/bagisto)** by [Bagisto](https://github.com/bagisto)<br>
 A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
+- **[AI Chatbot framework](https://github.com/alfredfrancis/ai-chatbot-framework)** by [Alfred Francis](https://github.com/alfredfrancis)<br>
+A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
+
 ### New and Noteworthy
 
 - **[Kundera](https://github.com/Impetus/Kundera)** by [Impetus](https://github.com/Impetus)<br>
@@ -48,6 +51,9 @@ Easy to use web based double entry accounting software in PHP - MySQL under MIT 
 A cross platform 2D game engine written in C++ for beginners.
 
 ## Open Source Organisations and Platforms
+
+- **[Swathanthra Malayalam Computing](https://smc.org.in)**<br>
+Swathanthra Malayalam Computing (SMC) is a free software collective engaged in development, localization, standardization and popularization of various Free and Open Source Softwares in Malayalam language.
 
 - **[MOSIP](https://github.com/mosip)** - Modular Open Source Identity Platform <br>
 An open source platform on which national foundational IDs are built.
