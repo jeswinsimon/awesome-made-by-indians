@@ -58,14 +58,17 @@ We were looking for ways to promote open source contributions among Indian devel
 
 ## Contributing 
 
-It's hard to calculate project popularity so we use stars as a measurement. It's not quite fair, but it is what we have here on Github.
+This section is still under development.
 
 If you want to add project to this list, please, make sure that:
 
 1. The project was created by the developer born in India or self-indicate themself as Indian.
-2. The project has more that 100 stars on Github.
+2. Make sure the project is active and responsive.
+3. The project has more that 100 stars on Github.
 
 If they do, feel free to make a PR!
+
+Projects hosted outside GitHub are also welcome.
 
 If you find a discrepancy in the list please feel free to raise an issue or a PR.
 
