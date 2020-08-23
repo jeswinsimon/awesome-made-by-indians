@@ -3,6 +3,11 @@
 
 ## Open Source Projects
 
+### > 20k 🌟
+
+- **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** by [Liyas Thomas](https://github.com/liyasthomas)<br>
+A free, fast and beautiful API request builder.
+
 ### > 15k 🌟
 
 - **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)** by [Hasura](https://github.com/hasura)<br>
