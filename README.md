@@ -32,6 +32,9 @@ Responsively is a free, open-source dev-tool that helps in faster and precise re
 - **[Chatwoot](https://github.com/chatwoot/chatwoot)** by [Chatwoot](https://github.com/chatwoot)<br>
 A simple and elegant live chat software. An opensource alternative to Intercom, Zendesk, Drift, Crisp etc.
 
+- **[Karate](https://github.com/intuit/karate)** by [Peter Thomas](https://github.com/ptrthomas)<br>
+Karate is the only open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.
+
 - **[Bagisto](https://github.com/bagisto/bagisto)** by [Bagisto](https://github.com/bagisto)<br>
 A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
 
