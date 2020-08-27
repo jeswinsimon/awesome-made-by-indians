@@ -3,6 +3,11 @@
 
 ## Open Source Projects
 
+### > 40k 🌟
+
+- **[PyTorch](https://pytorch.org)** by [Soumith Chintala](https://github.com/soumith)<br>
+An open source machine learning framework that accelerates the path from research prototyping to production deployment.
+
 ### > 20k 🌟
 
 - **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** by [Liyas Thomas](https://github.com/liyasthomas)<br>
