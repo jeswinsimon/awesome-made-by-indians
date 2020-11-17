@@ -8,7 +8,7 @@
 - **[PyTorch](https://pytorch.org)** by [Soumith Chintala](https://github.com/soumith)<br>
 An open source machine learning framework that accelerates the path from research prototyping to production deployment.
 
-### > 20k 🌟
+### > 25k 🌟
 
 - **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** by [Liyas Thomas](https://github.com/liyasthomas)<br>
 A free, fast and beautiful API request builder.
