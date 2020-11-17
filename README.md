@@ -18,10 +18,12 @@ A free, fast and beautiful API request builder.
 - **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)** by [Hasura](https://github.com/hasura)<br>
 Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
-### > 5k 🌟
+### > 10k 🌟
 
 - **[Kitty](https://github.com/kovidgoyal/kitty)** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
 A cross-platform, fast, feature full, GPU based terminal emulator.
+
+### > 5k 🌟
 
 - **[Calibre](https://github.com/kovidgoyal/calibre)** by [Kovid Goyal](https://github.com/kovidgoyal)<br>
 Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices. It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading. It is cross platform, running on Linux, Windows and macOS.
@@ -34,6 +36,9 @@ Leading Open Source Container Attached Storage, built using Cloud Native Archite
 
 - **[Responsively App](https://github.com/responsively-org/responsively-app)** by [Manoj Vivek](https://github.com/manojVivek) and [Suresh](https://github.com/esprush)<br>
 Responsively is a free, open-source dev-tool that helps in faster and precise responsive web developement. A must-have for all web developers.
+
+- **[Fission](https://github.com/fission/fission)** by [Fission](https://github.com/fission)<br>
+Fast and Simple Serverless Functions for Kubernetes.
 
 ### > 1k 🌟
 
