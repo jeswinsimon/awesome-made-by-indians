@@ -57,6 +57,9 @@ A python chatbot framework with Natural Language Understanding and Artificial In
 - **[IndicNLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library)** by [Anoop Kunchukuttan](https://github.com/anoopkunchukuttan/indic_nlp_library)<br>
 A python library for Indian language Natural Language Processing supporting many common NLP tasks like tokenization, word segmentation, script conversion, and many more.
 
+- **[Project Travel Mate](https://github.com/project-travel-mate/Travel-Mate)** by [Prabhakar Gupta](https://github.com/prabhakar267/) and [Swati Garg](https://github.com/Swati4star)<br>
+Travel Mate is an android app for travellers. It provides features like choosing the correct destination, making bookings, and organizing the trip. It provides solutions for every problem a traveller might face during their journey. It provides a comprehensive list of information about a destination: current weather, best places to hangout, and city's current trends.
+
 ### New and Noteworthy
 
 - **[Kundera](https://github.com/Impetus/Kundera)** by [Impetus](https://github.com/Impetus)<br>
