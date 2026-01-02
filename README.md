@@ -62,6 +62,9 @@ Travel Mate is an android app for travellers. It provides features like choosing
 
 ### New and Noteworthy
 
+- **[Vedika API](https://vedika.io)** by [Vedika AI](https://github.com/vedikaai)<br>
+India's first AI-powered Vedic astrology API with 108+ endpoints, 11 Indian language support (Hindi, Tamil, Telugu, Bengali, etc.), and multi-agent AI chatbot. Features Kundali matching, Panchang, Vimshottari Dasha, and Swiss Ephemeris-based calculations for matrimony and horoscope apps.
+
 - **[Kundera](https://github.com/Impetus/Kundera)** by [Impetus](https://github.com/Impetus)<br>
 A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.
 
