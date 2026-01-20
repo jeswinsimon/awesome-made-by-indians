@@ -89,7 +89,17 @@ Opensource internal tool builder. An alternative to Retool, AppSmith, JetAdmin, 
 Swathanthra Malayalam Computing (SMC) is a free software collective engaged in development, localization, standardization and popularization of various Free and Open Source Softwares in Malayalam language.
 
 - **[MOSIP](https://github.com/mosip)** - Modular Open Source Identity Platform <br>
-An open source platform on which national foundational IDs are built.
+An open source platform on which national foundational IDs are built. 
+
+- **[Inji](https://github.com/mosip/inji)** <br>
+An opensource verifiable credential platform compliant to OpenID4VP & OpenID4VCI        
+
+- **[Sunbird](https://github.com/project-sunbird)** <br> Sunbird is a set of configurable, extendable, modular open source digital building blocks for learning and human development designed for scale.
+
+- **[OpenG2P](https://github.com/openg2p)** <br> OpenG2P is an open-source platform that enables governments and humanitarian organisations to deliver critical social benefits directly to those who need them. It facilitates the building of secure, inclusive and efficient registries and digital cash transfer delivery systems
+
+- **[Beckn](https://github.com/beckn)** <br>
+Beckn is an open protocol that connects consumers and providers on an interoperable network
 
 ## But why?
 
