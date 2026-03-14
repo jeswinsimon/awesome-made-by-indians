@@ -62,6 +62,12 @@ Travel Mate is an android app for travellers. It provides features like choosing
 
 ### New and Noteworthy
 
+- **[LeetCode Rating Predictor](https://github.com/Sagargupta16/LeetCode_Rating_Predictor)** by [Sagar Gupta](https://github.com/Sagargupta16)<br>
+LSTM-based contest rating predictor for LeetCode with 85%+ accuracy. Built with FastAPI, TensorFlow, and React.
+
+- **[Ledger Sync](https://github.com/Sagargupta16/ledger-sync)** by [Sagar Gupta](https://github.com/Sagargupta16)<br>
+Excel-to-dashboard finance app with Sankey diagrams, anomaly detection, and 20+ pages. Built with React 19, FastAPI, and PostgreSQL.
+
 - **[Kundera](https://github.com/Impetus/Kundera)** by [Impetus](https://github.com/Impetus)<br>
 A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.
 
